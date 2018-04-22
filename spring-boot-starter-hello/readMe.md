@@ -1,0 +1,3 @@
+编写一个starter与编写一个普通的SpringBoot应用没有太在的区别,唯一的一点区别是需要告诉SprintBoot自动装配类在哪里,这是通过spring.factories文件完成的.
+
+spring.factories文件位于resources/META-INF目录下
